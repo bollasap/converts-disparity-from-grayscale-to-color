@@ -1,5 +1,5 @@
-# Converts the Disparity Map from Grayscale to Color
-A simple program in Matlab that converts the Disparity Map from grayscale to color.
+# Converts a Disparity Map from Grayscale to Color
+A simple program in Matlab that converts a Disparity Map from grayscale to color.
 
 ## Input Image
 The disparity map that used as input.
